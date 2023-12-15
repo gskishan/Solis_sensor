@@ -1,0 +1,25 @@
+{
+ "cards": [
+  {
+   "card": "Card1"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Dashboard Char One",
+   "width": "Full"
+  }
+ ],
+ "creation": "2023-12-15 11:44:56.247211",
+ "dashboard_name": "Programing Dashboard",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 1,
+ "is_standard": 1,
+ "modified": "2023-12-15 11:51:43.693291",
+ "modified_by": "Administrator",
+ "module": "Programing Modules",
+ "name": "Programing Dashboard",
+ "owner": "Administrator"
+}
